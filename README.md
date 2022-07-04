@@ -7,7 +7,7 @@ Users are directed to a register on opening the website. After the registering, 
 
 * Install [Django](https://docs.djangoproject.com/en/3.2/topics/install/)
 * Install all the required pacakges mentioned in the [req.txt] 
-  (https://github.com/BUNNY-1269/Doc_Sharings/blob/main/req.txt) using the command `pip
+  (https://github.com/samuel-web2002/File-Sharing-Portal/blob/main/req.txt) using the command `pip
   install -r req.txt`
 * Run the server and Connect the port to localhost:8000
 
