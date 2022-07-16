@@ -63,7 +63,7 @@ Users are directed to a register on opening the website. After the registering, 
 ### My Profile Page
 * In the side navigation bar we can see 'My Profile Page', where user can see his profile.
 
-![Screenshot (65)](https://user-images.githubusercontent.com/83687581/179352487-a8be6ec5-9b41-488e-9450-a740f580297c.png)
+![my_profile page](https://user-images.githubusercontent.com/83687581/179352541-da5b1e9e-05cd-4a34-b0a2-0c33b56c9233.png)
 
 
 
