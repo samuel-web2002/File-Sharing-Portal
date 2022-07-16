@@ -28,7 +28,7 @@ Users are directed to a register on opening the website. After the registering, 
 * User can keep their files private or public.
 * Users can also keep the files and floders they are intreseted as favorites for easier access.
 ### Landing Page
-![Screenshot (55)](https://user-images.githubusercontent.com/83687581/177525016-19e20a18-57da-4f8e-8969-546b42468cd3.png)
+![Landing page](https://user-images.githubusercontent.com/83687581/179352405-c2f48fe8-33be-4708-a92c-f1afb8997320.png)
 
 ### Register Page
 * The user has to register when he uses the website for the first time.He can register with any of his   Email ID.
@@ -63,7 +63,7 @@ Users are directed to a register on opening the website. After the registering, 
 ### My Profile Page
 * In the side navigation bar we can see 'My Profile Page', where user can see his profile.
 
-![image](https://user-images.githubusercontent.com/58564940/126110200-be22b3e4-ebde-45dd-8c66-a27a29d5f875.png)
+![Screenshot (65)](https://user-images.githubusercontent.com/83687581/179352487-a8be6ec5-9b41-488e-9450-a740f580297c.png)
 
 
 
